@@ -1,10 +1,10 @@
 #include <WiFi.h>
 
-const char *ssid = "Martinkim";
-const char *password = "engineer";
+const char *ssid = "Source";
+const char *password = "pass";
 
 const char *ap_ssid = "ESPwifi";
-const char *ap_password = "engineer";
+const char *ap_password = "pass2";
 
 const int wifiStatusLED = 13;
 const int hotspotStatusLED = 12;
